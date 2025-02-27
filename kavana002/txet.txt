@@ -2,6 +2,7 @@ Academic Programs: The university offers a wide range of courses in various disc
 
 Engineering (B.Tech, M.Tech)
 Management (MBA, BBA)
+civi not
 Law (BA LLB, LLM)
 Applied Sciences, Arts, Media, Design, and more.
 Campus: The campus is equipped with modern infrastructure, state-of-the-art facilities, including lecture halls, labs, libraries, hostels, sports facilities, and a variety of student engagement activities.
@@ -13,5 +14,6 @@ Research & Innovation: Amity University emphasizes research and innovation and p
 Placement and Industry Tie-ups: The university has strong industry connections and an active placement cell that helps students with internship and job opportunities in top national and international companies.
 
 Global Outreach: Amity University also promotes a global perspective, with students from various countries, exchange programs, and collaborations with international universities.
+
 
 
